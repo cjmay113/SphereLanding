@@ -1,0 +1,13 @@
+._InputFieldBase._InputFieldBase {
+  width: initial;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 320px;
+  height: min-content;
+  flex-direction: column;
+}
